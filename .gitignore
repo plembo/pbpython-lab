@@ -146,3 +146,7 @@ static
 .project
 .vscode
 .vscode/
+
+# For this project, ignore data files!
+*.csv
+
