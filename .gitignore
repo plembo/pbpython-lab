@@ -149,4 +149,6 @@ static
 
 # For this project, ignore data files!
 *.csv
+*.xls
+*.xlsx
 
