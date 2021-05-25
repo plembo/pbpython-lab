@@ -153,5 +153,6 @@ static
 *.xlsx
 *.zip
 *.txt
+*.pkl
 !requirements.txt
 
