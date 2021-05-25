@@ -151,4 +151,6 @@ static
 *.csv
 *.xls
 *.xlsx
+*.zip
+*.txt
 
