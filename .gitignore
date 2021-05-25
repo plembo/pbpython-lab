@@ -153,4 +153,5 @@ static
 *.xlsx
 *.zip
 *.txt
+!requirements.txt
 
